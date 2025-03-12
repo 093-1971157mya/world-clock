@@ -1,4 +1,10 @@
-h1 {
+body{
+    background-color: rgb(238, 147, 37);
+}
+
+
+h1 
+{
     text-align: center;
     text-decoration-color: rgb(153, 92, 209);
   }
